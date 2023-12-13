@@ -23,7 +23,6 @@ Trabajo integrador recreando el juego de Batalla Naval con React
 ## Ejecutar Localmente
 Despues de estar parado en el directorio puede ejecutar el siguiente comando para correrlo:
 
-    ```bash
     npm start
 
 
