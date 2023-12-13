@@ -12,15 +12,18 @@ Trabajo integrador recreando el juego de Batalla Naval con React
 
 2. Navega al directorio del proyecto:
 
+    ```bash
     cd unq-ui-alan-garcia-trabajo-final
 
 3. Instalar las dependencias utilizando npm:
 
+    ```bash
     npm install
 
 ## Ejecutar Localmente
 Despues de estar parado en el directorio puede ejecutar el siguiente comando para correrlo:
 
+    ```bash
     npm start
 
 
